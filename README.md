@@ -21,17 +21,3 @@ The **lireddit** is currently divided between **web** and **server** services. g
 
 - [**Server**](server)
 - [**Web**](web)
-
-## 🔗 Credits
-
-- [Ben Awad](https://github.com/benawad)
-- [Youtube](https://youtube.com/watch?v=I6ypD7qv3Z8)
-- [Original Code](https://github.com/benawad/lireddit)
-
-## 📃 License
-
-Licensed under the **MIT**. See [`LICENSE`](LICENSE) for more informations.
-
-## 📧 Contact
-
-See my contact information on my [GitHub Profile Page](https://github.com/ArthurFiorette) or open a new issue.
